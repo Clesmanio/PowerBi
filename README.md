@@ -1,6 +1,6 @@
-# 🐾 Dashboard de Vendas – Gatito Petshop (Power BI)
+#  Dashboard de Vendas – Gatito Petshop (Power BI)
 
-## 📌 Sobre o projeto
+##  Sobre o projeto
 
 Este projeto consiste no desenvolvimento de um **dashboard interativo no Power BI** para análise de vendas da empresa fictícia **Gatito Petshop**.
 
@@ -8,7 +8,7 @@ O painel foi criado com foco em **análise de faturamento**, **comportamento de 
 
 ---
 
-## 🎯 Objetivo do Dashboard
+##  Objetivo do Dashboard
 
 Apoiar a **tomada de decisão** por meio de indicadores claros e visuais, permitindo:
 
@@ -20,7 +20,7 @@ Apoiar a **tomada de decisão** por meio de indicadores claros e visuais, permit
 
 ---
 
-## 📊 Principais KPIs
+##  Principais KPIs
 
 * **Faturamento total:** $2,03 Mi
 * **Quantidade de vendas:** 57 mil
@@ -28,31 +28,31 @@ Apoiar a **tomada de decisão** por meio de indicadores claros e visuais, permit
 
 ---
 
-## 📈 Análises e visualizações
+##  Análises e visualizações
 
-### 🔹 Faturamento por gênero
+###  Faturamento por gênero
 
 * Comparação do faturamento entre clientes do gênero **Feminino** e **Masculino**
 * Visualização em gráfico de pizza para leitura rápida
 
-### 🔹 Faturamento por bairro
+###  Faturamento por bairro
 
 * Ranking dos bairros com maior faturamento
 * Destaque para regiões com maior potencial de vendas
 
-### 🔹 Faturamento ao longo do tempo
+###  Faturamento ao longo do tempo
 
 * Evolução mensal do faturamento
 * Identificação de picos e quedas sazonais
 
-### 🔹 Análise por produto
+###  Análise por produto
 
 * Filtro interativo por nome do produto
 * Visualização dos itens comercializados
 
 ---
 
-## 🎛️ Filtros interativos
+##  Filtros interativos
 
 * **Período de compra** (data inicial e final)
 * **Marca do produto**
@@ -62,7 +62,7 @@ Esses filtros permitem análises dinâmicas e personalizadas conforme a necessid
 
 ---
 
-## 🧠 Conceitos aplicados
+##  Conceitos aplicados
 
 * Modelagem de dados
 * Relacionamentos entre tabelas
@@ -73,7 +73,7 @@ Esses filtros permitem análises dinâmicas e personalizadas conforme a necessid
 
 ---
 
-## 🛠️ Ferramentas utilizadas
+##  Ferramentas utilizadas
 
 * **Power BI Desktop**
 * **DAX (Data Analysis Expressions)**
@@ -82,19 +82,19 @@ Esses filtros permitem análises dinâmicas e personalizadas conforme a necessid
 
 ---
 
-## 📷 Preview do Dashboard
+##  Preview do Dashboard
 
 > O dashboard completo pode ser visualizado por meio das imagens disponíveis na pasta do projeto ou diretamente no Power BI.
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 Os dados utilizados neste projeto são **fictícios**, criados exclusivamente para fins **educacionais e de portfólio**, não representando informações reais de clientes ou empresas.
 
 ---
 
-## 🚀 Aprendizados
+##  Aprendizados
 
 Com este projeto, foi possível consolidar conhecimentos em:
 
@@ -105,6 +105,6 @@ Com este projeto, foi possível consolidar conhecimentos em:
 
 ---
 
-## 👤 Autor
+##  Autor
 
 Projeto desenvolvido para fins de estudo e **portfólio em Análise de Dados com Power BI**.
